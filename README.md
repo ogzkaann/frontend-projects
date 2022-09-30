@@ -1,5 +1,4 @@
-# My-Frontend-Projects
-Small Frontend Projects
+# Basic-Frontend-Projects
 
 <img align="left" src="Basic-Projects/Basic-Blog/img/ssOfPage.JPG" alt="drawing" width="23%"/>
 <img align="left" src="Basic-Projects/Basic-Blog-Bootstrap/img/ss.JPG" alt="drawing" width="23%"/>
